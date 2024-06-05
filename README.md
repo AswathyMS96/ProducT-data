@@ -31,6 +31,7 @@ Sample product data:
         }
 
 }
+![image](https://github.com/AswathyMS96/ProducT-data/assets/146731424/42237145-a6bb-498f-a7ae-dae3a5ead9ab)
 
 
 [image](https://github.com/AswathyMS96/ProducT-data/assets/146731424/3bcfb3cb-5aca-4a7d-913a-4808111e37cc)

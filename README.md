@@ -29,8 +29,10 @@ Sample product data:
             "count": 120
 
         }
-
 }
+
+
+
 **output**
 
 ![image](https://github.com/AswathyMS96/ProducT-data/assets/146731424/42237145-a6bb-498f-a7ae-dae3a5ead9ab)
